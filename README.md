@@ -83,6 +83,3 @@ This implementation was inspired by:
 - [ ] Include model checkpointing
 - [ ] Add visualization tools for attention weights
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
